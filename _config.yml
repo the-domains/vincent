@@ -1,0 +1,28 @@
+name: Vincent
+favicon: null
+layout_spectrum: 0.2932691453024745
+typography_spectrum: 0.5074614195618778
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.3372736673336476
+  lightness: 0.027821173192933202
+  saturation: 0.6292025002185255
+  rhythmicContrast: 0.41454019001685083
+purpose: []
